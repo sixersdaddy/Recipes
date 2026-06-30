@@ -25,10 +25,11 @@
 - Granulated Garlic Powder
 - Onion Powder
 
+
 ### Batch Scaling
 
-|:-- | --: | --: | --:
 Ingredient       |   1x |   2x |    8x
+|:-- | --: | --: | --:|
 Sugar In The Raw |  215 |  430 | 1,720
 Kosher Salt      |  285 |  570 | 2,280
 Brown Sugar      |  105 |  210 |   840
